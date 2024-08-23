@@ -1,6 +1,5 @@
 ## Lydus CT Quality Assessment and Anatomy Segmentation Tool
-
-
+The Lydus CT Quality Assessment and Anatomy Segmentation Tool is designed for processing DICOM files, performing CT image segmentation, and evaluating image quality.
 ## Requirements
 tensorflow-gpu==2.10.0
 
